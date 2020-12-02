@@ -1,0 +1,6 @@
+framework module ZMZCategory {
+  umbrella header "ZMZCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
